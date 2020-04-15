@@ -1,3 +1,6 @@
 [submodule "testingSubmodule"]
 	path = testingSubmodule
 	url = https://github.com/ravinWijekoon/Testingchild.git
+[submodule "Coffee"]
+	path = Coffee
+	url = https://github.com/kaushi-web/coffee.git
