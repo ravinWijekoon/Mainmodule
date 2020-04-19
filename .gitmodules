@@ -4,3 +4,6 @@
 [submodule "Coffee"]
 	path = Coffee
 	url = https://github.com/kaushi-web/coffee.git
+[submodule "Hospital"]
+	path = Hospital
+	url = https://github.com/milochanaRathnayake/HealthcareSystem_Hospital.git
